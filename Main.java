@@ -1,5 +1,4 @@
 //Anuyan Kamalahasan
-//Computer Science
 //May 24, 2022 
 //Pokemon Platinum  Game (Battle, Catching, Hatching, Evolving, and Trading)
 
