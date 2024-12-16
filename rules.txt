@@ -1,0 +1,10 @@
+Welcome to the world of Pokemon!
+My name is professor Oak and I will be assisting you throughout the game. In this game there a creatures known as pokemon and you will be given a pokedex to collect information.
+In this game you will be given one pokemon and your rival will also have one pokemon.
+You will also be given a egg to hatch and have the opportunity to evolve one of your pokemon.
+You will catch one pokemon depending on the location you choose. If you fail to catch the pokemon you will be given a random pokemon.
+You will have the opportunity to trade your pokemon with the professor (Your hatched pokemon with one of the professor's pokemon)
+If you obtain a new pokemon the pokedex will inform you.
+At the end of the game you will have a 1v1 battle with your rival to see who is the strongest between the two.
+NOTE 1: IF YOU OR YOUR OPPONENT'S POKEMON IS BELOW 0 HP THEY HAVE ONE MORE CHANCE TO ATTACK BACK FOR THE WIN
+NOTE 2: WHEN BATTLING YOU MUST MAKE SURE YOU SPELL THE MOVES CORRECTLY. IF YOU DO NOT THEN YOU WILL BE PUNISHED AND YOUR TURN WILL BE SKIPPED.
